@@ -7,6 +7,7 @@ Develop a machine learning model to analyze credit scores and other financial in
 
 ### Data Sources: 
 Public datasets from financial institutions, Kaggle datasets on credit scores containing credit scores and financial histories.
+https://github.com/hernaneBraga/Medium_Texts/blob/main/21-09-Loan_Default_Prediction/data/Training%20Data.csv
 
 ### Technologies: 
 Use Scikit-learn for machine learning algorithms, Python Pandas for data manipulation, and for data visualization.
