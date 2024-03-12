@@ -1,14 +1,16 @@
 # Machine-Learning-Credit-Score-Analysis
 
-## Credit Score Analysis and Loan Eligibility Prediction
+# Credit Score Analysis and Loan Eligibility Prediction
 
 ##  Objective
 
-Develop an interactive machine learning model to analyze credit scores and other financial information to predict personal loan eligibility.
+To develop an interactive machine learning model to analyze credit scores and other financial information to predict personal loan eligibility.
 
-# Approach 
+### Approach 
 
 Collect datasets containing credit scores, income, employment history, and other relevant financial information. Clean and preprocess the data using Pandas, then use Scikit-learn to train classification models. Visualize the analysis using Matplotlip.
+
+# Data Model Implementation
 
 ## Python Script
 
@@ -17,7 +19,7 @@ Collect datasets containing credit scores, income, employment history, and other
 * Utilize data retrieved from Spark.
 
 
-## Data Model Implementation
+## Data Model
 
 * Model is interactive showing likelyhood of loan elegibility judging by various categories such as "Income," "Age," "Years of experience," "State," "Home owner/ Renter," "Married and Single."
 * The model demonstrates meaningful predictive power, achieving 89% classification accuracy, an R1 Score of: 0.013263271631139717, and an R2 Score of: 0.010517237223139792.
