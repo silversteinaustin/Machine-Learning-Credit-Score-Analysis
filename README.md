@@ -25,7 +25,7 @@ Collect datasets containing credit scores, income, employment history, and other
 * The model demonstrates meaningful predictive power, achieving 89% classification accuracy, an R1 Score of: 0.013263271631139717, and an R2 Score of: 0.010517237223139792.
 
 
-## Data Sources
+# Data Sources
 
 Public datasets from financial institutions, Kaggle datasets on credit scores containing credit scores and financial histories.
 https://github.com/hernaneBraga/Medium_Texts/blob/main/21-09-Loan_Default_Prediction/data/Training%20Data.csv
